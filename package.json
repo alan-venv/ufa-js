@@ -1,0 +1,15 @@
+{
+  "name": "ufa",
+  "author": "Alan Silva",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "A small toolkit",
+  "main": "main.js",
+  "repository": "https://github.com/alan-venv/ufa-js",
+  "homepage": "https://github.com/alan-venv/ufa-js#readme",
+  "keywords": [
+    "lib",
+    "utils",
+    "toolkit"
+  ]
+}

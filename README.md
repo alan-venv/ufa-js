@@ -1,2 +1,3 @@
-# ufa-js
+# In development
+
 A small toolkit
